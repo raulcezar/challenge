@@ -1,7 +1,4 @@
 {
-  "spots": [
-    {"id":1,"name":"Parking1","address":"Address1","coordinates":{"lat":-34.397,"lng":150.644},"hourly_price":"$1.00","rating":4.5,"total_spots":100,"available_spots":50,"image":"https://images.unsplash.com/photo-1518806118471-f28b20a1d79d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60"}
-  ],
   "parked": [
     {"id":1,"spot":1,"plate":"ABC123"}
   ],
