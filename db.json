@@ -5,14 +5,16 @@
     { "id": 3, "titulo": "Entendendo o ES7/ES8", "url": "https://www.codeprestige.com.br/cursos/es7-8" },
     { "id": 4, "titulo": "React 16 Definitivo", "url": "https://www.udemy.com/react-16/" }
   ],
-  "rentals": [
-    { "id": 1, "nome": "Marcela da Silva", "curso": 1 },
-    { "id": 2, "nome": "José Luiz Felipe", "curso": 2 },
-    { "id": 3, "nome": "Paulo Rogério", "curso": 3 },
-    { "id": 4, "nome": "Felipe da Cunha", "curso": 1 },
-    { "id": 5, "nome": "Luiza Cardoso Pereira", "curso": 1 }
-  ],
-  "parked": {
-    "nome": "Code Prestige"
-  }
+"parked":[
+{"id":1,"spot":1,"plate":"ABC123",},
+{"id":2,"spot":1,"plate":"DEF456",},
+{"id":3,"spot":2,"plate":"GHI789",},
+{"id":4,"spot":1,"plate":"JKL012",},
+{"id":5,"spot":3,"plate":"MNO345",},
+],
+"rentals":[
+{"id":1,"plate":"ABC123","spot":1},
+{"id":2,"plate":"ABC123","spot":1},
+{"id":2,"plate":"ABC123","start_date":"2019-01-01","end_date":"2019-01-02","spot":2},
+],
 }
